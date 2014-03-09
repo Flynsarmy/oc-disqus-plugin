@@ -1,0 +1,5 @@
+fields:
+  shortname:
+    span: full
+    label: Site
+    comment: Edit your site in Disqus admin to find the value of this field. Your site will be <site>.disqus.com. Capitalization is improtant!
